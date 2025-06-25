@@ -1,0 +1,8 @@
+{
+  "tabs": [
+    {"url": "https://hurtec.com.au/", "name": "Hurtec"},
+    {"url": "https://demo.hurtec.com.au/", "name": "Hurtec Demo", "username": "demo", "password": ""},
+    {"url": "https://vrm.victronenergy.com/login", "name": "Victron VRM", "username": "", "password": ""},
+    {"url": "http://192.168.4.28:8088/", "name": "Local"}
+  ]
+}
